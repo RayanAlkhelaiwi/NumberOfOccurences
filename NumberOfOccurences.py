@@ -14,7 +14,7 @@ while index < len(random_list):
   count_list[number] = count_list[number] + 1
   index = index + 1
 
-print random_list
+print "List is: " + str(random_list)
 print
 
 occurrence_counter = 0
